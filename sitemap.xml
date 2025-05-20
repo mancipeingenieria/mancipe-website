@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>http://www.mancipeingenieria.com</loc>
-	<lastmod>2025-05-19</lastmod>
+	<lastmod>2025-05-20</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -76,7 +76,7 @@
 </url>
 <url>
 	<loc>http://www.mancipeingenieria.com/nosotros.html</loc>
-	<lastmod>2025-05-19</lastmod>
+	<lastmod>2025-05-20</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -90,17 +90,9 @@
 </url>
 <url>
 	<loc>http://www.mancipeingenieria.com/galería.html</loc>
-	<lastmod>2025-05-19</lastmod>
+	<lastmod>2025-05-20</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
-	<image:image>
-	<image:loc>http://www.mancipeingenieria.com/img/Uniforme2.001.png</image:loc>
-	<image:title>placeholder image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>http://www.mancipeingenieria.com/img/Uniforme2.001.webp</image:loc>
-	<image:title>placeholder image</image:title>
-	</image:image>
 	<image:image>
 	<image:loc>http://www.mancipeingenieria.com/img/IMG_9899.jpeg</image:loc>
 	<image:title>placeholder image-sq</image:title>
